@@ -276,9 +276,7 @@ export function AppNav({ onSearch }: { onSearch: () => void }) {
                     data-test="source-code-link"
                 >
                     <GitHubIcon className="size-5" />
-                    <span className="sr-only lg:not-sr-only">
-                        Source code
-                    </span>
+                    <span className="sr-only lg:not-sr-only">Source code</span>
                 </a>
             </nav>
 
